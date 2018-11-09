@@ -1,0 +1,39 @@
+#logo{
+height: 90px;
+}
+
+#menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+    height: 100px;
+    background-color: orange;
+}
+
+#itens-menu {
+    display: flex;
+    list-style: none;
+    align-content: center;
+    text-size-adjust: 180px;
+    
+}
+
+#itens-menu li {
+    padding: 0 10px;
+}
+
+#instrutores {
+    text-align: center;
+}
+
+#pai {
+    display: flex;
+    justify-content: space-around;
+}
+
+#pai img {
+    height: 150px;
+}
+
+
